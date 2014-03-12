@@ -1,0 +1,1 @@
+This is an example project for the chapter "Getting Started" of the book "Django Web Development Cookbook".
